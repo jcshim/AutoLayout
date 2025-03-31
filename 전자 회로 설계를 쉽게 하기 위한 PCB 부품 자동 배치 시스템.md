@@ -1,4 +1,5 @@
 # 전자 회로 설계를 쉽게 하기 위한 PCB 부품 자동 배치 시스템
+### [논문 2024](https://github.com/jcshim/AutoLayout/blob/main/Automated%20PCB%20Component%20Placement%20System%20for%20Effic.pdf)
 
 ---
 
